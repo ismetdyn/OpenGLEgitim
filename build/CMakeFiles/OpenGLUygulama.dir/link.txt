@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\OpenGLUygulama.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\OpenGLUygulama.dir/objects.a @CMakeFiles\OpenGLUygulama.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -Wl,--whole-archive CMakeFiles\OpenGLUygulama.dir/objects.a -Wl,--no-whole-archive -o OpenGLUygulama.exe -Wl,--out-implib,libOpenGLUygulama.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OpenGLUygulama.dir\linkLibs.rsp

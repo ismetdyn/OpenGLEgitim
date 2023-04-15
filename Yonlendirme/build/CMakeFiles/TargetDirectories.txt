@@ -1,0 +1,3 @@
+C:/Users/ismet/OPENGLEGITIM/Yonlendirme/build/CMakeFiles/Yonlendirme.dir
+C:/Users/ismet/OPENGLEGITIM/Yonlendirme/build/CMakeFiles/edit_cache.dir
+C:/Users/ismet/OPENGLEGITIM/Yonlendirme/build/CMakeFiles/rebuild_cache.dir

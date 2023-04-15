@@ -1,0 +1,3 @@
+C:/Users/ismet/OPENGLEGITIM/buildDaireCizimi/CMakeFiles/DaireCizimi.dir
+C:/Users/ismet/OPENGLEGITIM/buildDaireCizimi/CMakeFiles/edit_cache.dir
+C:/Users/ismet/OPENGLEGITIM/buildDaireCizimi/CMakeFiles/rebuild_cache.dir

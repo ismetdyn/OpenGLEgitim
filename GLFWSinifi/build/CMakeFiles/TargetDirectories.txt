@@ -1,0 +1,3 @@
+C:/Users/ismet/OPENGLEGITIM/GLFWSinifi/build/CMakeFiles/GLFWSinifi.dir
+C:/Users/ismet/OPENGLEGITIM/GLFWSinifi/build/CMakeFiles/edit_cache.dir
+C:/Users/ismet/OPENGLEGITIM/GLFWSinifi/build/CMakeFiles/rebuild_cache.dir

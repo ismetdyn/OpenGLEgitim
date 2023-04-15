@@ -1,0 +1,3 @@
+C:/Users/ismet/OPENGLEGITIM/Mesh/build/CMakeFiles/Mesh.dir
+C:/Users/ismet/OPENGLEGITIM/Mesh/build/CMakeFiles/edit_cache.dir
+C:/Users/ismet/OPENGLEGITIM/Mesh/build/CMakeFiles/rebuild_cache.dir

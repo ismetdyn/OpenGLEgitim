@@ -1,0 +1,3 @@
+C:/Users/ismet/OPENGLEGITIM/ImGui/build/CMakeFiles/ImGui.dir
+C:/Users/ismet/OPENGLEGITIM/ImGui/build/CMakeFiles/edit_cache.dir
+C:/Users/ismet/OPENGLEGITIM/ImGui/build/CMakeFiles/rebuild_cache.dir

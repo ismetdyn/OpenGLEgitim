@@ -1,0 +1,3 @@
+C:/Users/ismet/OPENGLEGITIM/buildKaplama/CMakeFiles/Kaplama.dir
+C:/Users/ismet/OPENGLEGITIM/buildKaplama/CMakeFiles/edit_cache.dir
+C:/Users/ismet/OPENGLEGITIM/buildKaplama/CMakeFiles/rebuild_cache.dir

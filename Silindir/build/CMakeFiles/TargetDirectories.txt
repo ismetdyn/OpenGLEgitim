@@ -1,0 +1,3 @@
+C:/Users/ismet/OPENGLEGITIM/Silindir/build/CMakeFiles/Silindir.dir
+C:/Users/ismet/OPENGLEGITIM/Silindir/build/CMakeFiles/edit_cache.dir
+C:/Users/ismet/OPENGLEGITIM/Silindir/build/CMakeFiles/rebuild_cache.dir
